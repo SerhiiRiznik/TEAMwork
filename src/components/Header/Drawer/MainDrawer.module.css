@@ -1,0 +1,7 @@
+.MainDrawer > div {
+  /* background-color: rgb(255, 140, 0); */
+  width: 5%;
+  white-space: nowrap;
+  overflow-x: hidden;
+  /* margin-top: 64px; */
+}
